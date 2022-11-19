@@ -1,5 +1,5 @@
 # icloud
-Easyly create cloud-servers by strong c++
+Easily create cloud-servers by strong c++
 ## service-server
 + manage business servers
 + servers online/offline
