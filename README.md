@@ -11,3 +11,11 @@ Easily create cloud-servers by strong c++
 + control center of business servers
 
 ## business-server
+
+
+## features
++ poll/epoll tcp communication
++ database pool
++ client identification by SRP
++ message serialization by protobuf
+
