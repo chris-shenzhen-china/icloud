@@ -18,4 +18,5 @@ Easily create cloud-servers by strong c++
 + database pool
 + client identification by SRP
 + message serialization by protobuf
++ cmake + conan build project
 
